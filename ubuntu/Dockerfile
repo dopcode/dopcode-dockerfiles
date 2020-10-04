@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu
 RUN apt-get update \
     && apt-get -y --no-install-recommends install \
         tar unzip iproute2 net-tools \
