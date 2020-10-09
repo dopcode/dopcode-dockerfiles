@@ -1,0 +1,12 @@
+set encoding=utf-8
+set fileencodings=utf-8,euckr
+set number
+set ruler
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set cindent
+set nowrap
+set hlsearch
+set showmatch
+syntax on
